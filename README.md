@@ -1,2 +1,2 @@
 # passwordgen
-Simple random passowrd generator that uses a wordlist
+Simple random password generator that uses a wordlist.
